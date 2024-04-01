@@ -7,7 +7,8 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luca stöger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca stöger" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luca-stöger-619399247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca stöger" height="30" width="40" /></a>
+  <a href="https://www.xing.com/profile/Luca_Stoeger3/web_profiles" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-xing-logo-icon-2447-thumb.png" alt="luca stöger" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/luca-stöger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="luca-stöger" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lstoeger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lstoeger" height="30" width="40" /></a>
 </p>
